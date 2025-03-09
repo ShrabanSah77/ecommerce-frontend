@@ -68,7 +68,7 @@ make changes on the tailwind.config.js
   plugins: [],
 }
 ```
-make changes  onthe index.css
+make changes onther index.css
 ```bash 
 
 @tailwind base;
